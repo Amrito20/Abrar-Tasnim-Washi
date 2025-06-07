@@ -1,106 +1,172 @@
 {
   "technicalSkills": [
     {
-      "name": "ANSYS",
+      "name": "ANSYS (Fluent)",
       "icon": "fas fa-cogs",
       "description": "Advanced CFD Analysis & Numerical Simulation",
-      "level": 85
+      "level": 90
     },
     {
       "name": "SolidWorks",
       "icon": "fas fa-cube",
       "description": "3D CAD Modeling & Design",
-      "level": 80
+      "level": 85
     },
     {
       "name": "AutoCAD",
       "icon": "fas fa-drafting-compass",
       "description": "Technical Drawing & Documentation",
+      "level": 80
+    },
+    {
+      "name": "C Programming",
+      "icon": "fas fa-code",
+      "description": "Programming Language for Engineering Applications",
       "level": 75
     },
     {
-      "name": "Microsoft Office",
+      "name": "Python",
+      "icon": "fab fa-python",
+      "description": "Programming & Data Analysis",
+      "level": 80
+    },
+    {
+      "name": "Microsoft Office Suite",
       "icon": "fas fa-file-alt",
-      "description": "Documentation & Presentation Suite",
+      "description": "MS Word, Excel, PowerPoint - Professional Documentation",
       "level": 90
+    },
+    {
+      "name": "Origin Pro",
+      "icon": "fas fa-chart-line",
+      "description": "Scientific Plotting & Data Analysis Software",
+      "level": 75
+    },
+    {
+      "name": "Mechanical Testing (UTM)",
+      "icon": "fas fa-wrench",
+      "description": "Universal Testing Machine Operations",
+      "level": 80
     },
     {
       "name": "CFD Analysis",
       "icon": "fas fa-wind",
       "description": "Computational Fluid Dynamics",
-      "level": 85
+      "level": 90
     },
     {
       "name": "Numerical Analysis",
       "icon": "fas fa-calculator",
       "description": "Mathematical Modeling & Simulation",
+      "level": 85
+    },
+    {
+      "name": "Aerodynamics",
+      "icon": "fas fa-plane",
+      "description": "Wind Engineering & Flow Analysis",
+      "level": 85
+    },
+    {
+      "name": "Structural Analysis",
+      "icon": "fas fa-building",
+      "description": "Engineering Structural Design & Analysis",
       "level": 80
     }
   ],
   "softSkills": [
     {
-      "name": "Creativity",
-      "icon": "fas fa-lightbulb",
-      "description": "Innovative Problem Solving & Design Thinking",
+      "name": "Research & Analysis",
+      "icon": "fas fa-search",
+      "description": "Academic Research & Critical Analysis",
+      "level": 95
+    },
+    {
+      "name": "Technical Writing",
+      "icon": "fas fa-pen",
+      "description": "Research Papers & Academic Documentation",
       "level": 90
     },
     {
       "name": "Communication",
       "icon": "fas fa-comments",
-      "description": "Effective Presentation & Technical Writing",
+      "description": "Effective Presentation & Technical Communication",
       "level": 85
     },
     {
-      "name": "Adaptability",
-      "icon": "fas fa-sync-alt",
-      "description": "Quick Learning & Flexibility",
+      "name": "Leadership",
+      "icon": "fas fa-users",
+      "description": "Team Leadership & Student Organization Management",
       "level": 88
     },
     {
-      "name": "Teamwork",
-      "icon": "fas fa-users",
-      "description": "Collaborative Work & Leadership",
-      "level": 87
-    },
-    {
-      "name": "Critical Thinking",
+      "name": "Problem Solving",
       "icon": "fas fa-brain",
-      "description": "Analytical Approach & Problem Analysis",
-      "level": 89
+      "description": "Engineering Problem Analysis & Solution Development",
+      "level": 90
     },
     {
       "name": "Time Management",
       "icon": "fas fa-clock",
-      "description": "Meeting Deadlines & Project Planning",
+      "description": "Meeting Academic Deadlines & Project Planning",
+      "level": 87
+    },
+    {
+      "name": "Adaptability",
+      "icon": "fas fa-sync-alt",
+      "description": "Quick Learning & Flexibility in Research",
       "level": 85
+    },
+    {
+      "name": "Collaboration",
+      "icon": "fas fa-handshake",
+      "description": "Multi-author Research Papers & Team Projects",
+      "level": 88
     }
   ],
   "achievements": [
     {
       "title": "Dean's Award",
-      "year": "2021-2022",
-      "description": "Academic excellence recognition",
+      "year": "Academic Year",
+      "description": "Academic excellence recognition for maintaining outstanding performance",
       "icon": "fas fa-award"
     },
     {
-      "title": "HSC Government Scholarship",
-      "year": "2019",
-      "description": "Merit-based scholarship for outstanding performance",
+      "title": "Government Scholarships",
+      "year": "Multiple Years",
+      "description": "Merit-based scholarships for securing top positions nationally",
       "icon": "fas fa-graduation-cap"
+    },
+    {
+      "title": "IELTS Academic Score",
+      "year": "7.5 Overall",
+      "description": "International English Language Testing System certification",
+      "icon": "fas fa-globe"
     },
     {
       "title": "Vice President",
       "year": "Current",
-      "description": "RAC (Remians Association of KUET)",
+      "description": "Ramians Association of KUET - Student Leadership Position",
       "icon": "fas fa-user-tie"
+    },
+    {
+      "title": "6 Research Publications",
+      "year": "2025",
+      "description": "Accepted papers at ICMEAS 2025 International Conference",
+      "icon": "fas fa-book"
     }
   ],
   "certifications": [
     {
-      "name": "Introduction to AutoCAD & SolidWorks",
-      "provider": "EDGE Program",
-      "year": "2023",
-      "description": "Project under Bangladesh Computer Council (BCC), ICT Division"
+      "name": "Introduction to AutoCAD",
+      "provider": "EDGE Program (Bangladesh Computer Council)",
+      "year": "Professional Development",
+      "description": "CSWA equivalent knowledge certification under ICT Division project"
+    },
+    {
+      "name": "IELTS Academic",
+      "provider": "International English Language Testing",
+      "year": "7.5 Overall Score",
+      "description": "Listening: 9 | Reading: 8 | Writing: 6.5 | Speaking: 6"
     }
   ]
 } 
